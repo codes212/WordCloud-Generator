@@ -6,7 +6,7 @@ A flask based application to scrap user reviews and comments from a retail websi
 1. http://wordcloudgenerator-env-1.eba-vz3p32ek.us-east-2.elasticbeanstalk.com/
 
 2. https://wordcloudgenerator.azurewebsites.net/
-<br>
+
 3. https://word-cloudgenerator.herokuapp.com/
 <br>
 
