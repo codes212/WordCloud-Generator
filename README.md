@@ -7,7 +7,7 @@ A flask based application to scrap user reviews and comments from a retail websi
 ## Screenshots from the project -
 ### 1. Homepage to search a product.
 
-![Home page](https://imgur.com/a/VmN8gCz)
+![Home page](Screenshots/homepage.png)
 ---
 
 ### 2.Tabular form of data available for download as well. 
