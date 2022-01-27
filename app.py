@@ -53,8 +53,8 @@ class DataCollection:
         self.data["Price"].append(prodprice)
         try:
             # Append the name of the customer if exists
-            self.data["Name"].append(commentbox.div.div. \
-                                     find_all('p', {"class': '_2sc7ZR _2V5EHH"})[0].text)
+            self.data["Name"].append(commentbox.div.div.\
+				find_all('p', {'class': '_2sc7ZR _2V5EHH'})[0].text)
         except Exception as e:
             self.data["Name"].append("No Name")
 
